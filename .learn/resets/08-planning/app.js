@@ -1,7 +1,7 @@
 const oneEuroIs = {
-    "JPY": 156.5,
-    "USD": 1.07,
-    "GBP": 0.87,
+    "JPY": 156.5, // yen japonés
+    "USD": 1.07, // dólar estadounidense
+    "GBP": 0.87, // libra esterlina
 };
 
 const fromEuroToDollar = function(valueInEuro) {
